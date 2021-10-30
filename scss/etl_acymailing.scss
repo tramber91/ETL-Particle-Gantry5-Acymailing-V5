@@ -47,7 +47,7 @@
     }
     .etl-acy-newsletter-inputboxemail-1 {
         color: $base-text-color;
-        background-color: darken($base-background, 10%);
+        background-color: darken($base-background, .1);
         border: 0;
         display: inline-block;
         padding: 0.7rem 1.25rem;
@@ -62,7 +62,7 @@
     }
     .etl-acy-newsletter-inputboxemail-compact-text {
         color: $base-text-color;
-        background-color: darken($base-background, 10%);
+        background-color: darken($base-background, .1);
         border: 0;
 		border-radius: 0;
 		height: 40px;
@@ -79,7 +79,7 @@
     }
     .etl-acy-newsletter-inputboxname-2, .etl-acy-newsletter-inputboxemail-2 {
         color: $base-text-color;
-        background-color: darken($base-background, 10%);
+        background-color: darken($base-background, .1);
         border: 0;
         display: inline-block;
         padding: 0.7rem 1.25rem;
@@ -149,7 +149,7 @@
     .etl-acy-newsletter-inputboxemail-compact {
         input {
       color: $base-background;
-            border: 2px solid fadeout($white, 75%);
+            border: 2px solid fadeout($white, .75);
             background: transparent;
             padding: 0 $content-padding;
             margin-bottom: 0;
